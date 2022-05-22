@@ -7,4 +7,4 @@ The complete pdf of the unit can be found at:
 http://iep.edu.gr/images/IEP/EPISTIMONIKI_YPIRESIA/Epist_Monades/B_Kyklos/Humanities/2018/2018-11-30_B7_Human_Rights.pdf
 
 In order to make the app available in this stage, it is uploaded on Google drive. The space needed is 152MB of internal storage and permission to access the phone's camera. It also requires internet connection in order to access V?uforia. It can be downloaded from: 
-https://drive.google.com/file/d/1gztrpS9E98ATl0OYFIKjqYDzWVgl3ifO/view?usp=sharing
+https://drive.google.com/file/d/1RjarP8O0TxnbNBv32_8Q21IlhCR9yT1H/view
